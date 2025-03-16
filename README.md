@@ -47,9 +47,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  </a>
 </p>
 
 ---
