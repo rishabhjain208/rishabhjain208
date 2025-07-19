@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
-<h3 align="center">A passionate Full Stack Developer from India, skilled in JavaScript, TypeScript, React, and Node.js, with expertise in building scalable SaaS applications using the MERN stack.</h3>
+<h3 align="center">A passionate Software Engineer from India, skilled in JavaScript, TypeScript, React, Express.js, Sails.js, MySQL, MongoDB, and Node.js, with expertise in building scalable SaaS applications using the MERN stack.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhjain208&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
